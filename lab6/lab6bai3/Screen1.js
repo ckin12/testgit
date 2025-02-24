@@ -29,6 +29,6 @@ export default function Screen1({ navigation }) {
 
 const styles = StyleSheet.create({
   container: { flex: 1, justifyContent: "center", alignItems: "center" },
-  title: { fontSize: 18, fontWeight: "bold", color: "blue", marginBottom: 10 },
+  title: { fontSize: 18, fontWeight: "bold", color: "orange", marginBottom: 10 },
   input: { height: 40, borderColor: "gray", borderWidth: 1, width: "80%", marginBottom: 10, paddingHorizontal: 10 },
 });
